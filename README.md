@@ -2,7 +2,7 @@
 
 A static portfolio covering software engineering, applied AI, product work, experience, projects, education, skills, and achievements.
 
-Live site: <https://portfolio-nu-woad-43.vercel.app>
+Live site: <https://geetanjali-reddy-portfolio.vercel.app>
 
 ## Run locally
 
