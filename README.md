@@ -2,6 +2,8 @@
 
 A static portfolio covering software engineering, applied AI, product work, experience, projects, education, skills, and achievements.
 
+Live site: <https://portfolio-nu-woad-43.vercel.app>
+
 ## Run locally
 
 Open `index.html` in a browser, or serve this folder:
@@ -21,6 +23,6 @@ Visit <http://localhost:3000>.
 
 ## Deploy on Vercel
 
-Import this repository in Vercel. Select **Other** as the framework preset, leave the build command empty, and use the repository root as the output directory. Vercel serves `index.html` directly. No environment variables or server are required.
+This repository is connected to the Vercel project `portfolio`. Pushes to `main` deploy the root-level `index.html` directly. The project uses the **Other** framework preset and Node.js 26.x; no build command, environment variables, or server are required.
 
 Logo credits: SRM Institute of Science and Technology official logo; Jio and Samsung icons from Simple Icons; Reliance Industries official media kit. Company marks remain the property of their owners.
